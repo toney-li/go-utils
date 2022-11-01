@@ -1,4 +1,4 @@
-module go-utils
+module github.com/toney-li/go-utils
 
 go 1.18
 
